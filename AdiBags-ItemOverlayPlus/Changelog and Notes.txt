@@ -1,0 +1,18 @@
+Changelog by Sattva 2nd May 2023 #1;
+- Initial backport and modification of addon initially made by apottere for retail game version.
+- Added Caching of already scanned items.
+- A lot of optimization to not bother user FPS.
+- Fixed issues when overlay was removed by clicking an item in bag or while looting with bag open. And more fixes!
+- Added option to disable overlay in /adibags - Modules - Item Overlay Plus.
+
+Known issues: 
+For now i have implemented optimized way to scan the toltips, so that this module doesn't bother your game FPS.
+	Sometimes when new item adding the overlay for NEW items could become a little messy, no biggie. But overlay is updated by clicking "Reset new item" (N) button, or TidyBags (T) button, or reloading game. If you have Tidy-Bags semi-automated then it's gonna be updated also by visiting different NPCs such as vendors, even mail.
+It's just something that has to be worked on, and will be for sure improved in future, if people be interested in this modification.
+
+To-Do List:	
+Add different ways to handle the scanning process.
+Make options for user to be able to decide which kind of scan does he want, fastest or optimized one. 
+Optimize caching. 
+Add green overlay for recipes - already learned.
+

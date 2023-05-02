@@ -1,0 +1,9 @@
+Changelog by Sattva 2nd May 2023 #1;
+- Initial backport of retail addon created by Outroot, continued by Avyiel and Spanky, backported by Sattva
+
+Known issues: 
+	None
+
+To-Do List:	
+
+

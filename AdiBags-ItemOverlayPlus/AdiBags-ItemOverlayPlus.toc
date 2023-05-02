@@ -1,0 +1,12 @@
+## Interface: 30300
+
+## Title: AdiBags - Item Overlay Plus
+## Notes: Adds red overlay for unusable items.
+## Author: apottere, modified by Sattva
+## Version: 3.3.5
+
+## Dependencies: AdiBags
+
+libs\LibCompat-1.0\lib.xml
+ScanningTooltip.xml
+AdiBags-ItemOverlayPlus.lua

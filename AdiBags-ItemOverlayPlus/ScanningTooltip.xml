@@ -1,0 +1,9 @@
+<Ui>
+ <GameTooltip name="AdibagsItemOverlayPlusScanningTooltip" inherits="GameTooltipTemplate">
+   <Scripts>
+     <Onload>
+       self:SetOwner(WorldFrame, "ANCHOR_NONE");
+     </Onload>
+   </Scripts>
+ </GameTooltip>
+</Ui>
