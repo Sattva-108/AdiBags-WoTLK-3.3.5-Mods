@@ -166,7 +166,7 @@ local function isTextColorRed(textTable)
     end
 
     local text = textTable:GetText()
-    if not text or text == "" then
+    if not text or text == "" or string.find(text, "0 / %d+") then
         return false
     end
 
