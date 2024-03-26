@@ -2,7 +2,7 @@
 This repository contains external addon-modficiation for AdiBags-WoTLK-3.3.5 backport addon.
 
 ## Support
-- Support my development on **[Boosty](https://boosty.to/sattva108)**
+- Show **Love and Support** my goals **[Boosty](https://boosty.to/sattva108)**
 
 ## Install
 1. First make sure to install latest release of [AdiBags-WoTLK-3.3.5](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5) by [Sattva-108](https://github.com/Sattva-108)<br>
