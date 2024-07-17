@@ -5,9 +5,9 @@ This repository contains external addon-modficiation for AdiBags-WoTLK-3.3.5 bac
 - Show **Love and Support** my goals **[Boosty](https://boosty.to/sattva108)**
 
 ## Install
-1. First make sure to install latest release of [AdiBags-WoTLK-3.3.5](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5) by [Sattva-108](https://github.com/Sattva-108)<br>
+1. First make sure to install latest release of [AdiBags-WoTLK-3.3.5](https://github.com/Sattva-108/AdiBags) by [Sattva-108](https://github.com/Sattva-108)<br>
 2. Then download plugins -  [AdiBags-WoTLK-3.3.5-Mods](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5-Mods/archive/refs/heads/main.zip)<br>
-3. Simply drop them in Interface/Addons just like any other addon. And [AdiBags](https://github.com/Sattva-108/AdiBags-WoTLK-3.3.5) will hook it.
+3. Simply drop them in Interface/Addons just like any other addon. And [AdiBags](https://github.com/Sattva-108/AdiBags) will hook it.
 
 ## Screenshots
 ### Item Overlay Plus
